@@ -1,0 +1,16 @@
+import turtle
+tarta= turtle.Turtle()
+tarta.forward(100)
+tarta.left(180)
+tarta.left(36)
+tarta.forward(100)
+tarta.left(180)
+tarta.left(36)
+tarta.forward(100)
+tarta.left(180)
+tarta.left(36)
+tarta.forward(100)
+tarta.left(180)
+tarta.left(36)
+tarta.forward(100)
+
