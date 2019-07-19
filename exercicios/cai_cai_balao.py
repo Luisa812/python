@@ -1,0 +1,30 @@
+from musicav1 import *
+for i in range(2):
+    for i in range(2):
+        Sol.toca(0.5) 
+        sleep(0.05)
+        Sol.toca(0.75)
+        Fa.toca(0.25)
+        Mi.toca(0.5)
+    Sol.toca(0.5)
+    La.toca(0.5)
+    Sol.toca(0.5)
+    Fa.toca(0.5)
+    Mi.toca(0.5)
+    Re.toca(1)
+    sleep(0.5) 
+    for i in range(3):
+        Re.toca(0.5)
+        Mi.toca(0.25)
+        Fa.toca(0.25)
+        sleep(0.2)
+    sleep(0.5)
+    Sol.toca(0.5)
+    La.toca(0.5)
+    Sol.toca(0.5)
+    Fa.toca(0.5)
+    Mi.toca(0.5)
+    Re.toca(0.5)
+    Do.toca(2)
+    sleep(1)
+
